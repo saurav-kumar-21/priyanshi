@@ -1,0 +1,186 @@
+[26/Apr/2026 08:36:28] "GET / HTTP/1.1" 200 20670
+[26/Apr/2026 08:36:29,031] - Broken pipe from ('127.0.0.1', 60356)
+[26/Apr/2026 08:37:20] code 400, message Bad request version ('\x9b\x11£Ü\x92À\x89eð¼MU|\x0e#vqòDxb:')
+[26/Apr/2026 08:37:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:37:20] code 400, message Bad request version ('\x9eî\x81}shÉÞ0\x9bå')
+[26/Apr/2026 08:37:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:37:34] code 400, message Bad request version ('ù®´3\x95Rt,\x9d\x16?\x8aÊY\x91\x93K\x88ì¾J\x97¯òh¸%ÀOpW3¼')
+[26/Apr/2026 08:37:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:37:34] code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sêê\x00\x00\x003\x04ï\x04íÚÚ\x00\x01\x00\x11ì\x04À\x8ddOö\x1b\x0e')
+[26/Apr/2026 08:37:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:37:48] code 400, message Bad request syntax ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03kÚèÁ\x15Ð\x99°~GÝ(gì\x11&D\x82\x18')
+[26/Apr/2026 08:37:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:37:48] code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063êê\x00\x00\x00+\x00\x07\x06zz\x03\x04\x03\x03\x00')
+[26/Apr/2026 08:37:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:38:31] code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+[26/Apr/2026 08:38:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:38:31] code 400, message Bad request version ('\x02h2\x08http/1.1\x003\x04ï\x04í')
+[26/Apr/2026 08:38:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:39:12] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+[26/Apr/2026 08:39:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:39:12] code 400, message Bad request version ('\x94Bã)FZ¹-\x0e\x07P\x1bõ\x88ÓÒ^¿GUz¦\x02õäVÜZÊ\x7fc§;¡£\x93')
+[26/Apr/2026 08:39:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:39:32] code 400, message Bad request version ('·¦\x9bû§.\x13¯Ö|>þ²\x8c\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00#\x00\x00\x00+\x00\x07\x06')
+[26/Apr/2026 08:39:32] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:39:32] code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sjj\x00\x00\x00')
+[26/Apr/2026 08:39:32] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:40:47] "GET / HTTP/1.1" 200 20670
+[26/Apr/2026 08:40:47] "GET /static/js/main.js HTTP/1.1" 200 7817
+[26/Apr/2026 08:40:47] "GET /static/css/style.css HTTP/1.1" 200 5590
+Unauthorized: /api/cart/
+WARNING 2026-04-26 08:40:47,782 log 10656 16892 Unauthorized: /api/cart/
+[26/Apr/2026 08:40:47] "GET /api/cart/ HTTP/1.1" 401 58
+Not Found: /favicon.ico
+WARNING 2026-04-26 08:40:49,312 log 10656 16892 Not Found: /favicon.ico
+[26/Apr/2026 08:40:49] "GET /favicon.ico HTTP/1.1" 404 12204
+[26/Apr/2026 08:44:33] "GET /login/ HTTP/1.1" 200 14243
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:45:09,509 log 10656 13288 Bad Request: /api/auth/login/
+[26/Apr/2026 08:45:09] "POST /api/auth/login/ HTTP/1.1" 400 45
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:45:24,816 log 10656 13288 Bad Request: /api/auth/login/
+[26/Apr/2026 08:45:24] "POST /api/auth/login/ HTTP/1.1" 400 45
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:45:40,218 log 10656 13288 Bad Request: /api/auth/login/
+[26/Apr/2026 08:45:40] "POST /api/auth/login/ HTTP/1.1" 400 45
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:45:57,418 log 10656 13288 Bad Request: /api/auth/login/
+[26/Apr/2026 08:45:57] "POST /api/auth/login/ HTTP/1.1" 400 45
+[26/Apr/2026 08:46:08] code 400, message Bad request version ('q\x98\x89*yã×\x8dL')
+[26/Apr/2026 08:46:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:46:08] code 400, message Bad request version ('ªÆ²\x9a\x96HXï\x00Öh\x13ß+lÃÕ\x98.ÒÓCÎjiR\x86')
+[26/Apr/2026 08:46:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:47:26,631 log 10656 13288 Bad Request: /api/auth/login/
+[26/Apr/2026 08:47:26] "POST /api/auth/login/ HTTP/1.1" 400 45
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:47:44,036 log 10656 13288 Bad Request: /api/auth/login/
+[26/Apr/2026 08:47:44] "POST /api/auth/login/ HTTP/1.1" 400 45
+[26/Apr/2026 08:47:53] "GET /login/ HTTP/1.1" 200 14243
+[26/Apr/2026 08:47:53] "GET /static/css/style.css HTTP/1.1" 304 0
+[26/Apr/2026 08:47:53] "GET /static/js/main.js HTTP/1.1" 304 0
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:48:53,334 log 10656 7556 Bad Request: /api/auth/login/
+[26/Apr/2026 08:48:53] "POST /api/auth/login/ HTTP/1.1" 400 45
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:49:10,024 log 10656 7556 Bad Request: /api/auth/login/
+[26/Apr/2026 08:49:10] "POST /api/auth/login/ HTTP/1.1" 400 45
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:51:16,158 log 10656 6992 Bad Request: /api/auth/login/
+[26/Apr/2026 08:51:16] "POST /api/auth/login/ HTTP/1.1" 400 45
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:51:22,583 log 10656 6992 Bad Request: /api/auth/login/
+[26/Apr/2026 08:51:22] "POST /api/auth/login/ HTTP/1.1" 400 45
+[26/Apr/2026 08:51:23] "GET /login/ HTTP/1.1" 200 14243
+Not Found: /admin/
+WARNING 2026-04-26 08:51:39,365 log 10656 21840 Not Found: /admin/
+[26/Apr/2026 08:51:39] "GET /admin/ HTTP/1.1" 404 12189
+Not Found: /admin/
+WARNING 2026-04-26 08:51:52,164 log 10656 21840 Not Found: /admin/
+[26/Apr/2026 08:51:52] "GET /admin/ HTTP/1.1" 404 12189
+[26/Apr/2026 08:52:38] code 400, message Bad request version ('\x8e\x9fcè')
+[26/Apr/2026 08:52:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:52:38] code 400, message Bad request version ('êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063jj\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+[26/Apr/2026 08:52:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:53:07] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00+\x00\x07\x06êê\x03\x04\x03\x03\x00\x1b\x00\x03\x02\x00\x02\x00#\x00\x00\x00')
+[26/Apr/2026 08:53:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:53:07] code 400, message Bad request version ('\x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93úú\x00\x00\x00\x1b\x00\x03\x02\x00\x02ÿ\x01\x00\x01\x00\x00+\x00\x07\x06êê\x03\x04\x03\x03\x00')
+[26/Apr/2026 08:53:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:56:03] "GET / HTTP/1.1" 200 20670
+[26/Apr/2026 08:56:03] "GET /static/js/main.js HTTP/1.1" 304 0
+[26/Apr/2026 08:56:03] "GET /static/css/style.css HTTP/1.1" 304 0
+Unauthorized: /api/cart/
+WARNING 2026-04-26 08:56:04,102 log 10656 24784 Unauthorized: /api/cart/
+[26/Apr/2026 08:56:04] "GET /api/cart/ HTTP/1.1" 401 58
+[26/Apr/2026 08:56:09] "GET /login/ HTTP/1.1" 200 14243
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:56:35,798 log 10656 24784 Bad Request: /api/auth/login/
+[26/Apr/2026 08:56:35] "POST /api/auth/login/ HTTP/1.1" 400 45
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 08:56:45,051 log 10656 24784 Bad Request: /api/auth/login/
+[26/Apr/2026 08:56:45] "POST /api/auth/login/ HTTP/1.1" 400 45
+[26/Apr/2026 08:58:03] code 400, message Bad request version ('ö1\x17~H\x00')
+[26/Apr/2026 08:58:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:58:03] code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93úú\x00\x00ÿ\x01\x00\x01\x00\x00')
+[26/Apr/2026 08:58:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:58:09] code 400, message Bad request version ('\x00\x02\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+[26/Apr/2026 08:58:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:58:09] code 400, message Bad request version ('Y\x9a')
+[26/Apr/2026 08:58:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:58:09] code 400, message Bad request version ('WsØ\x0e]±JZe{')
+[26/Apr/2026 08:58:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:58:09] code 400, message Bad request version ('Ò')
+[26/Apr/2026 08:58:09] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00-\x00\x02\x01\x01\x00\x12\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00')
+[26/Apr/2026 08:58:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:58:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 08:58:09] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03uÏ\x19\x96««dlT·')
+[26/Apr/2026 08:58:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 09:02:30] "GET / HTTP/1.1" 200 20670
+Unauthorized: /api/cart/
+WARNING 2026-04-26 09:02:30,825 log 10656 6140 Unauthorized: /api/cart/
+[26/Apr/2026 09:02:30] "GET /api/cart/ HTTP/1.1" 401 58
+[26/Apr/2026 09:02:43,225] - Broken pipe from ('127.0.0.1', 54635)
+[26/Apr/2026 09:02:46] "GET /login/ HTTP/1.1" 200 14243
+Bad Request: /api/auth/login/
+WARNING 2026-04-26 09:03:26,582 log 10656 5452 Bad Request: /api/auth/login/
+[26/Apr/2026 09:03:26] "POST /api/auth/login/ HTTP/1.1" 400 45
+[26/Apr/2026 09:04:04] "POST /api/auth/login/ HTTP/1.1" 200 1537
+[26/Apr/2026 09:04:13] "GET /admin-panel/ HTTP/1.1" 200 14919
+[26/Apr/2026 09:05:53] "GET /login/ HTTP/1.1" 200 15176
+[26/Apr/2026 09:05:53] "GET /static/css/style.css HTTP/1.1" 304 0
+[26/Apr/2026 09:05:53] "GET /static/js/main.js HTTP/1.1" 304 0
+[26/Apr/2026 09:06:04] "GET /home/ HTTP/1.1" 200 21603
+[26/Apr/2026 09:06:11] "GET /api/cart/ HTTP/1.1" 200 182
+[26/Apr/2026 09:09:15] "GET / HTTP/1.1" 200 20670
+[26/Apr/2026 09:09:15,583] - Broken pipe from ('127.0.0.1', 59254)
+[26/Apr/2026 09:09:34] "GET /admin-panel/ HTTP/1.1" 200 14919
+[26/Apr/2026 09:10:04] "GET /admin-panel/ HTTP/1.1" 200 14919
+[26/Apr/2026 09:11:04] "GET /admin-panel/sellers/ HTTP/1.1" 200 23146
+[26/Apr/2026 09:11:42] "GET /admin-panel/activities/ HTTP/1.1" 200 32927
+[26/Apr/2026 09:12:02] "GET /admin-panel/activities/ HTTP/1.1" 200 32927
+[26/Apr/2026 09:12:53] "GET / HTTP/1.1" 200 21603
+[26/Apr/2026 09:12:58] "GET /api/cart/ HTTP/1.1" 200 182
+[26/Apr/2026 09:13:11] "GET /admin-panel/ HTTP/1.1" 200 14919
+[26/Apr/2026 09:14:38] "GET /admin-panel/ HTTP/1.1" 200 14919
+[26/Apr/2026 09:14:54] "GET /admin-panel/orders/ HTTP/1.1" 200 27478
+[26/Apr/2026 09:15:03,473] - Broken pipe from ('127.0.0.1', 56683)
+[26/Apr/2026 09:15:07] "GET /admin-panel/products/ HTTP/1.1" 200 60026
+[26/Apr/2026 09:15:41] "GET /admin-panel/orders/ HTTP/1.1" 200 27478
+[26/Apr/2026 09:15:53] "GET /admin-panel/sellers/ HTTP/1.1" 200 23146
+[26/Apr/2026 09:16:03] "GET /admin-panel/sellers/ HTTP/1.1" 200 23146
+[26/Apr/2026 09:16:26] "GET /admin-panel/orders/ HTTP/1.1" 200 27478
+[26/Apr/2026 09:16:37] "GET /admin-panel/orders/ HTTP/1.1" 200 27478
+[26/Apr/2026 09:17:44] "GET /admin-panel/orders/ HTTP/1.1" 200 27478
+[26/Apr/2026 09:17:59] "GET /login/ HTTP/1.1" 200 15176
+[26/Apr/2026 09:17:59] "GET /static/css/style.css HTTP/1.1" 304 0
+[26/Apr/2026 09:17:59] "GET /static/js/main.js HTTP/1.1" 304 0
+[26/Apr/2026 09:18:07] "GET /home/ HTTP/1.1" 200 21603
+[26/Apr/2026 09:18:12] "GET /api/cart/ HTTP/1.1" 200 182
+[26/Apr/2026 09:18:23] "GET /admin-panel/ HTTP/1.1" 200 14919
+[26/Apr/2026 09:20:46] "GET /admin-panel/products/ HTTP/1.1" 200 60026
+Not Found: /admin-panel/media
+WARNING 2026-04-26 09:20:49,009 log 10656 12360 Not Found: /admin-panel/media
+[26/Apr/2026 09:20:49] "GET /admin-panel/media HTTP/1.1" 404 12222
+Not Found: /admin-panel/media
+WARNING 2026-04-26 09:21:39,079 log 10656 12360 Not Found: /admin-panel/media
+[26/Apr/2026 09:21:39] "GET /admin-panel/media HTTP/1.1" 404 12222
+Not Found: /admin-panel/media
+WARNING 2026-04-26 09:21:41,129 log 10656 12360 Not Found: /admin-panel/media
+[26/Apr/2026 09:21:41] "GET /admin-panel/media HTTP/1.1" 404 12222
+[26/Apr/2026 09:21:58] "GET /admin-panel/products/ HTTP/1.1" 200 60026
+[26/Apr/2026 09:22:46] "GET /admin-panel/activities/ HTTP/1.1" 200 32927
+Not Found: /admin-panel/media/
+WARNING 2026-04-26 09:22:55,103 log 10656 12360 Not Found: /admin-panel/media/
+[26/Apr/2026 09:22:55] "GET /admin-panel/media/ HTTP/1.1" 404 12225
+Not Found: /admin-panel/media/
+WARNING 2026-04-26 09:23:03,309 log 10656 21152 Not Found: /admin-panel/media/
+[26/Apr/2026 09:23:03] "GET /admin-panel/media/ HTTP/1.1" 404 12225
+[26/Apr/2026 09:23:14] code 400, message Bad request version ('<\x90\x03\x81+G$\x00')
+[26/Apr/2026 09:23:14] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 09:23:14] code 400, message Bad request version ('¸\x02\x95\x04$ÇÉ´|i8%\x18\x8añ\x17©M')
+[26/Apr/2026 09:23:14] You're accessing the development server over HTTPS, but it only supports HTTP.
+[26/Apr/2026 09:24:56] "GET / HTTP/1.1" 200 21603
+[26/Apr/2026 09:25:01] "GET /api/cart/ HTTP/1.1" 200 182
+[26/Apr/2026 09:25:40] "GET /admin-panel/ HTTP/1.1" 200 14919
+[26/Apr/2026 09:28:28] "GET /admin-panel/ HTTP/1.1" 200 14919
+[26/Apr/2026 09:29:17,251] - Broken pipe from ('127.0.0.1', 53271)
